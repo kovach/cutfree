@@ -18,4 +18,9 @@ ul {
 .note {
   color: #999;
   font-size: 11pt;
+  max-width: 600px;
+}
+.date {
+  font-size: 10pt;
+  color: #a33;
 }
